@@ -1,9 +1,22 @@
-# file system navigation notes 
+Objective
 
-Here are the command i practiced in killercoda:
+Practice navigating the Linux Filesystem Hierarchy Standard (FHS) and managing files.
 
-* `ls` : used to list the content current directory
-* `ls -lah`: Used this to see all files in a list.
-* `cd /var/log`: Used this to move into the log folder.
-* `pwd`: Used this to make sure I wasn't lost!
-* `cat` : used to exacute the content of file 
+
+Commands & Examples
+
+cd /var/log: Moved to the system log directory to inspect server messages.
+
+ls -lah: Listed all files, including hidden ones, in a human-readable format (showing sizes in KB/MB).
+
+mkdir -p projects/demo: Created a nested directory structure in one command.
+
+touch test.txt: Created an empty file for testing purposes.
+
+cp test.txt projects/demo/backup.txt: Copied and renamed a file to a different directory.
+
+
+Discovery
+
+Using ls -lah is much more useful than a standard ls because it shows file sizes and hidden configuration files 
+(dotfiles) that are often used in DevOps tools like Git and Docker.
