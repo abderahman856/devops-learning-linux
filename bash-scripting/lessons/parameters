@@ -1,1 +1,31 @@
+A parameter is:
+
+A value you pass to a script when you run it
+
+Simple Bash Script with Parameters
+
+Create a script:
+
+nano greet.sh
+
+#!/usr/bin/env bash
+
+echo "Hello $1"
+
+
+Run it:
+
+./greet.sh Baashe
+
+
+Output:
+
+Hello Baashe
+
+What happened?
+
+$1 = first parameter
+
+Baashe = value you passed
+
 
