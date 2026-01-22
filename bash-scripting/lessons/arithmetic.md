@@ -18,3 +18,11 @@ $(( expression ))
 
 <img width="692" height="425" alt="image" src="https://github.com/user-attachments/assets/43c33d06-8dcb-4296-a82b-9396effd9f7f" />
 
+Arithmetic with parameters means:
+
+Doing math using values passed to a script when you run it
+
+simple example below;
+
+<img width="674" height="548" alt="image" src="https://github.com/user-attachments/assets/72c9c66f-23ee-4966-be97-15f2b14b8960" />
+
