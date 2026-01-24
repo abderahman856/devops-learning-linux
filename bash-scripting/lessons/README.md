@@ -18,5 +18,5 @@ Here is the course Outline ;
  
  8; conditional statements
  
- 9; 
+ 9; loops and flow control
  
