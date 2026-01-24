@@ -16,7 +16,7 @@ Here is the course Outline ;
  
  7; what are arithemtic expantion you learn math.
  
- 8; Vs code editor, how you can install and configure it. 
+ 8; conditional statements
  
  9; 
  
