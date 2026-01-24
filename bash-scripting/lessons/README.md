@@ -19,4 +19,15 @@ Here is the course Outline ;
  8; conditional statements
  
  9; loops and flow control
+
+ 10; Functions and inputs
+
+ 11; piping and redirection
+
+ 12; Handling and exit codes
+
+ 13; Environment and PATH
+
+ 14; Working with files 
+
  
