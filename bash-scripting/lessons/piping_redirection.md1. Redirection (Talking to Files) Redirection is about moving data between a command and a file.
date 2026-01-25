@@ -1,0 +1,7 @@
+1. Redirection (Talking to Files)
+   
+Redirection is about moving data between a command and a file.
+
+2. Piping (Talking to Commands)
+   
+Piping is about moving data from one command to another. It uses the vertical bar symbol: |.
