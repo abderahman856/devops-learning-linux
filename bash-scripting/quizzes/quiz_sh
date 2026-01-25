@@ -1,0 +1,152 @@
+Bash Scripting Essentials Quiz - 30 Questions
+Total points
+27/30
+The respondent's email (abderahmansaeed7@gmail.com) was recorded on submission of this form.
+ 
+Question 1: What is the shebang line in a Bash script?
+*
+1/1
+
+Question 2: How do you create a variable in Bash?
+*
+1/1
+
+ 
+Question 3: How do you access the value of a variable in Bash?
+*
+1/1
+
+ 
+Question 4: What does the echo command do in Bash? 
+*
+1/1
+
+ 
+Question 5: Which command makes a script executable?
+*
+1/1
+
+ 
+Question 6: What does $1 represent in a Bash script?
+*
+1/1
+
+ 
+Question 7: How do you run a Bash script from the current directory?
+*
+0/1
+
+Question 8: What symbol is used for single-line comments in Bash?
+*
+1/1
+
+ 
+Question 9: Which arithmetic operator is used for addition in Bash?
+*
+1/1
+
+Question 10: What does $? represent?
+*
+1/1
+
+ 
+Question 11: How do you perform arithmetic expansion in Bash?
+*
+1/1
+
+ 
+Question 12: What does the read command do? 
+
+*
+1/1
+
+ 
+Question 13: Which comparison operator means "equal to" in Bash
+*
+0/1
+
+Question 14: What is the syntax for a basic if statement in Bash?
+*
+1/1
+
+Question 15: How do you create a while loop in Bash?
+*
+1/1
+
+ 
+Question 16: What does $# represent? 
+*
+1/1
+
+ 
+Question 17: How do you access all parameters passed to a script?
+*
+1/1
+
+ 
+Question 18: What does the break statement do in loops? 
+*
+1/1
+
+Question 19: What does the continue statement do in loops?
+*
+1/1
+
+ 
+Question 20: How do you define a function in Bash?
+*
+1/1
+
+ 
+Question 21: What does set -e do in a Bash script?
+*
+1/1
+
+ 
+Question 22: What does set -u do? 
+*
+1/1
+
+ 
+Question 23: What does set -x do? 
+*
+1/1
+
+ 
+Question 24: How do you redirect standard output to a file? 
+*
+1/1
+
+ 
+Question 25: What does >> do when redirecting output?
+*
+1/1
+
+ 
+Question 26: How do you check if a file exists in Bash?
+*
+1/1
+
+ 
+Question 27: What does /dev/null represent? 
+*
+1/1
+
+ 
+Question 28: How do you generate an MD5 checksum of a file? 
+*
+0/1
+
+ 
+Question 29: What does the source command do?
+*
+1/1
+
+ 
+Question 30: How do you make a script exit with a specific exit code? 
+*
+1/1
+
+
+# the '1/1' means i asnwered correctly and got 1 point
+# the '0/1' means i wronged the question and lose 1 point
