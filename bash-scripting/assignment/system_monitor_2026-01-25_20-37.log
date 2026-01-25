@@ -1,0 +1,16 @@
+==========================================
+ SYSTEM MONITORING REPORT - 2026-01-25_20-37 
+==========================================
+
+[1. CPU USAGE]
+
+[2. MEMORY USAGE]
+
+[3. DISK USAGE]
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   228Gi    17Gi    85Gi    17%    426k  892M    0%   /
+
+[4. TOP 5 MEMORY PROCESSES]
+
+==========================================
+Report Generation Complete.
