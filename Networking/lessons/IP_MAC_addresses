@@ -1,0 +1,17 @@
+1. MAC Address (The Physical Identity)
+
+Stands for: Media Access Control.
+
+Simple View: It is the serial number burned into the computer's network card at the factory. It never changes.
+
+Format: Looks like this: 00:1A:2B:3C:4D:5E (Hexadecimal).
+
+
+2. IP Address (The Logical Location)
+
+Stands for: Internet Protocol.
+
+Simple View: It is the address assigned to your computer based on which network it is currently joined to. It changes if you move to a different Wi-Fi.
+
+Format: Looks like this: 192.168.1.1 (IPv4).
+
